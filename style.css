@@ -1,0 +1,61 @@
+/* i am using the same color as how to hack */
+:root{
+    --base-color:#070b1d;
+    --base-variant:#101425;
+    --text-color:#ffffff;
+    --secondary-text:#a4a5b8;
+    --primary-color:#cfd3e6;
+    --accent-color:#0071ff;
+    --accent-colorselect:#71A4FF;
+    --navbar-color:#1E1E1E;
+    --navbar-select:#121212;
+    --navbar-select-text:#ffffff;
+    --three-text:rgb(130, 122, 122);
+}
+body{
+    background-color: var(--base-color);
+}
+main{
+    text-align: center;
+    color: var(--secondary-text);
+}
+h1{
+    color: var(--text-color);
+}
+h2{
+    color: var(--text-color);
+}
+h3{
+    color: var(--text-color);
+}
+h4{
+    color: var(--text-color);
+}
+h5{
+    color: var(--text-color);
+}
+h6{
+    color: var(--text-color);
+}
+p{
+    color: var(--text-color);
+}
+.head{
+    color: var(--three-text);
+}
+a{
+    color: var(--accent-color);
+}
+a:link{
+    text-decoration: none ;
+}
+a:hover{
+    text-decoration: underline;
+    
+}
+.link:link{
+    text-decoration: none;
+}
+.link:hover{
+    text-decoration: underline;
+}
