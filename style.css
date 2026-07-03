@@ -59,3 +59,7 @@ a:hover{
 .link:hover{
     text-decoration: underline;
 }
+hr{
+    height:10;
+    width: 1200%;
+}
